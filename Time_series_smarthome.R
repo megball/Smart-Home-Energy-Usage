@@ -19,7 +19,7 @@ rm(list = ls())
 
 # Set working directory
 getwd()
-setwd("C:/Users/Megan/Documents/Data Analytics/C3T1")
+setwd()
 dir()
 
 ################
